@@ -1,0 +1,27 @@
+PODS:
+  - MultipleProductDemo (0.1.0)
+  - Nimble (8.0.9)
+  - Quick (2.2.1)
+
+DEPENDENCIES:
+  - MultipleProductDemo (from `../`)
+  - Nimble (~> 8.0.7)
+  - Quick (~> 2.2.0)
+
+EXTERNAL SOURCES:
+  MultipleProductDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MultipleProductDemo: 594c0765a1c1c34a731225bf2516cc23a11fb1d9
+  Nimble: 98b888285a615fd34f20e61753cf58ea1402bde4
+  Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
+
+COCOAPODS: 1.10.2
+
+PODFILE CHECKSUM: 1a30fb649bfbbde3a23098615c5425fb4f80f1e3
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick

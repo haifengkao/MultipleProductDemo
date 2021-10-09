@@ -1,0 +1,6 @@
+framework module MultipleProductDemo {
+  umbrella header "MultipleProductDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
