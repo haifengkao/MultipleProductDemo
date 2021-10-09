@@ -8,7 +8,7 @@ target 'MultipleProductDemo_Example' do
   target 'MultipleProductDemo_Tests' do
     inherit! :search_paths
 
-    pod 'Quick', '~> 2.2.0'
-    pod 'Nimble', '~> 8.0.7'
+    pod 'Quick', '~> 4.0'
+    pod 'Nimble', '~> 9.0'
   end
 end

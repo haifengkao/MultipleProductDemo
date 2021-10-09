@@ -8,6 +8,11 @@
 
 import UIKit
 
+
+public enum FirstAppEnum {
+    case hello
+}
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
